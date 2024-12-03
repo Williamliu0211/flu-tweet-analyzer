@@ -1,18 +1,16 @@
-## Getting Started
+I attest that the code in this project save for the provided JSON.simple 
+library is entirely my own, with the following exceptions:
+<Enter all external resources and collaborations here. Note external code may
+reduce your score but appropriate citation is required to avoid academic
+integrity violations. Please see the Course Syllabus as well as the
+university code of academic integrity:
+https://catalog.upenn.edu/pennbook/code-of-academic-integrity/ >
+https://stackoverflow.com/questions/63211082/cannot-edit-default-vscode-json-settings
+https://www.geeksforgeeks.org/parse-json-java/
+https://www.tutorialspoint.com/json/json_java_example.htm
+https://docs.oracle.com/javaee/7/tutorial/jsonp001.htm
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Signed,
+Author: William (Xuanjiang) Liu
+Penn email: <xuanjliu@seas.upenn.edu>
+Date: 2024-07-23
